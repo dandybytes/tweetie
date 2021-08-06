@@ -1,0 +1,29 @@
+{
+  "name": "tweetie",
+  "version": "1.0.0",
+  "description": "command line Twitter client",
+  "bin": {
+    "tweetie:": "./bin/tweetie.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandybytes/tweetie.git"
+  },
+  "keywords": [
+    "Node",
+    "Node.js",
+    "JavaScript",
+    "CLI",
+    "Twitter"
+  ],
+  "author": "dandybytes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dandybytes/tweetie/issues"
+  },
+  "homepage": "https://github.com/dandybytes/tweetie#readme"
+}
